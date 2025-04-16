@@ -15,7 +15,7 @@ Bypassing Respondus Lockdown Browser can be simple and effective with the right 
 ## Contact Information
 For more details or to request a custom solution, feel free to reach out:
 
-- **Telegram**: [@bypassexam](https://t.me/bypassexam), [@bypassy](https://t.me/bypassy)
+- **Telegram**: [@bypassy](https://t.me/bypassy)
 - **Telegram Channel**: [@BypassLockdownBrowser](https://t.me/BypassLockdownBrowser)
 - **Discord**: [bypassy](https://discord.gg/WF6KQHMpQx)
 - **Discord Server**: https://discord.gg/WF6KQHMpQx
